@@ -4,3 +4,11 @@
 ❗https://marred-eustoma-2e9.notion.site/4d4eed0109634ec291f8022aedcd07e6
 
 Skill
+html
+css
+javascript
+jqeury
+react
+svn
+git
+oracle
