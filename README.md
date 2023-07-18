@@ -7,7 +7,7 @@
 html<br>
 css<br> 
 javascript<br>
-jqeury<br>
+jQeury<br>
 react<br>
 svn<br>
 git<br>
