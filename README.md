@@ -8,7 +8,7 @@ html<br>
 css<br> 
 javascript<br>
 jQeury<br>
-react<br>
+React<br>
 svn<br>
 git<br>
 oracle<br>
