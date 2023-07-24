@@ -5,7 +5,7 @@
 
 <strong>Skill<br></strong></br>
 html<br>
-css<br> 
+CSS<br> 
 javascript<br>
 jQeury<br>
 React<br>
