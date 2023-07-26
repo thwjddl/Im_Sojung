@@ -12,3 +12,4 @@ React<br>
 svn<br>
 git<br>
 oracle<br>
+Figma
