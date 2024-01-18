@@ -13,6 +13,8 @@ React<br>
 svn<br>
 git<br>
 oracle<br>
+카페24<br>
+Wordpress
 
 <br>
 Figma
